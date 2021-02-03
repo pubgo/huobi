@@ -1,6 +1,6 @@
 package account
 
-import "github.com/huobirdcenter/huobi_golang/pkg/model/base"
+import "github.com/huobirdcenter/huobi/pkg/model/base"
 
 type SubscribeAccountV2Response struct {
 	base.WebSocketV2ResponseBase

@@ -3,10 +3,10 @@ package client
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/order"
+	"github.com/huobirdcenter/huobi/internal"
+	"github.com/huobirdcenter/huobi/internal/requestbuilder"
+	"github.com/huobirdcenter/huobi/pkg/model"
+	"github.com/huobirdcenter/huobi/pkg/model/order"
 )
 
 // Responsible to operate on order

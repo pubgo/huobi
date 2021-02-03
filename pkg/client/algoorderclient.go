@@ -2,10 +2,10 @@ package client
 
 import (
 	"encoding/json"
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/algoorder"
+	"github.com/huobirdcenter/huobi/internal"
+	"github.com/huobirdcenter/huobi/internal/requestbuilder"
+	"github.com/huobirdcenter/huobi/pkg/model"
+	"github.com/huobirdcenter/huobi/pkg/model/algoorder"
 )
 
 // Responsible to operate algo order

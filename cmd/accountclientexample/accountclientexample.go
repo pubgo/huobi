@@ -1,10 +1,10 @@
 package accountclientexample
 
 import (
-	"github.com/huobirdcenter/huobi_golang/config"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/account"
+	"github.com/huobirdcenter/huobi/config"
+	"github.com/huobirdcenter/huobi/logging/applogger"
+	"github.com/huobirdcenter/huobi/pkg/client"
+	"github.com/huobirdcenter/huobi/pkg/model/account"
 	"github.com/shopspring/decimal"
 )
 
